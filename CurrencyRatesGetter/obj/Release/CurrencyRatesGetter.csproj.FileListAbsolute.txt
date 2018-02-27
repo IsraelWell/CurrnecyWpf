@@ -1,0 +1,11 @@
+C:\Users\Yisrael\source\repos\WpfSchoolProject\CurrencyRatesGetter\bin\Release\CurrencyRatesGetter.dll.config
+C:\Users\Yisrael\source\repos\WpfSchoolProject\CurrencyRatesGetter\bin\Release\CurrencyRatesGetter.dll
+C:\Users\Yisrael\source\repos\WpfSchoolProject\CurrencyRatesGetter\bin\Release\CurrencyRatesGetter.pdb
+C:\Users\Yisrael\source\repos\WpfSchoolProject\CurrencyRatesGetter\bin\Release\Newtonsoft.Json.dll
+C:\Users\Yisrael\source\repos\WpfSchoolProject\CurrencyRatesGetter\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Yisrael\source\repos\WpfSchoolProject\CurrencyRatesGetter\bin\Release\Newtonsoft.Json.xml
+C:\Users\Yisrael\source\repos\WpfSchoolProject\CurrencyRatesGetter\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Yisrael\source\repos\WpfSchoolProject\CurrencyRatesGetter\obj\Release\CurrencyRatesGetter.csprojResolveAssemblyReference.cache
+C:\Users\Yisrael\source\repos\WpfSchoolProject\CurrencyRatesGetter\obj\Release\CurrencyRatesGetter.csproj.CoreCompileInputs.cache
+C:\Users\Yisrael\source\repos\WpfSchoolProject\CurrencyRatesGetter\obj\Release\CurrencyRatesGetter.dll
+C:\Users\Yisrael\source\repos\WpfSchoolProject\CurrencyRatesGetter\obj\Release\CurrencyRatesGetter.pdb

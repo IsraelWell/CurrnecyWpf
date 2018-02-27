@@ -1,0 +1,7 @@
+C:\Users\Yisrael\source\repos\WpfSchoolProject\BL\bin\Debug\netstandard1.6\BL.deps.json
+C:\Users\Yisrael\source\repos\WpfSchoolProject\BL\bin\Debug\netstandard1.6\BL.dll
+C:\Users\Yisrael\source\repos\WpfSchoolProject\BL\bin\Debug\netstandard1.6\BL.pdb
+C:\Users\Yisrael\source\repos\WpfSchoolProject\BL\obj\Debug\netstandard1.6\BL.csproj.CoreCompileInputs.cache
+C:\Users\Yisrael\source\repos\WpfSchoolProject\BL\obj\Debug\netstandard1.6\BL.AssemblyInfo.cs
+C:\Users\Yisrael\source\repos\WpfSchoolProject\BL\obj\Debug\netstandard1.6\BL.dll
+C:\Users\Yisrael\source\repos\WpfSchoolProject\BL\obj\Debug\netstandard1.6\BL.pdb

@@ -1,0 +1,17 @@
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\bin\Debug\Dal.dll
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\bin\Debug\Dal.pdb
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\bin\Debug\Models.dll
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\bin\Debug\SQLite-net.dll
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\bin\Debug\Models.pdb
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\bin\Debug\SQLite-net.pdb
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\bin\Debug\SQLite-net.xml
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\obj\Debug\Dal.dll
+C:\Users\Yisrael\source\repos\WpfSchoolProject\Dal\obj\Debug\Dal.pdb
